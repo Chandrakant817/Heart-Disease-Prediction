@@ -6,5 +6,5 @@ Heart Disease Prediction using Machine Learning (Classification Use Case)
 ### Implemented Machine Learning Algorithms.
 
 ##### 1. Logistic Regression
-##### 2. Decisionn Tree Classifier
+##### 2. Decision Tree Classifier
 ##### 3. Random Forest Classifier
